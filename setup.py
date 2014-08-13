@@ -23,6 +23,7 @@ def setup(cfg_file="config.json"):
         config = json.load(f)
     r_url = urlparse.urlparse(os.environ.get("REDISCLOUD_URL"))
     r = redis.StrictRedis(host=r_url.hostname, port=r_url.port, password=r_url.password)
+    r.flushdb()
     for db in config:
         fmt = config[db]['fmt']
         offset = 0

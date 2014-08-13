@@ -1,18 +1,10 @@
 {
-    "prod": {
-        "fours": {
-            "sources": ["lists/fours.txt"],
-            "fmt": "{}_4"
-        },
-        "eights": {
-            "sources": ["lists/eights.txt"],
-            "fmt": "{}_8"
-        }
+    "fours": {
+        "sources": ["lists/fours.txt"],
+        "fmt": "{}_4"
     },
-    "dev": {
-        "redis": {
-            "host": "localhost",
-            "db": 1
-        }
+    "eights": {
+        "sources": ["lists/eights.txt"],
+        "fmt": "{}_8"
     }
  }
