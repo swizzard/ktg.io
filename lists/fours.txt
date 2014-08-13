@@ -27,7 +27,6 @@ sway
 spec
 eire
 lure
-kudo
 dele
 risk
 deli
@@ -40,7 +39,6 @@ figs
 kudu
 wick
 vast
-geum
 fogs
 fogy
 czar
@@ -65,7 +63,6 @@ asia
 nogs
 yurt
 haze
-xvii
 blur
 ebbs
 tips
@@ -174,7 +171,6 @@ buns
 bunt
 quod
 gate
-adit
 pixy
 arcs
 mess
@@ -285,7 +281,6 @@ free
 fred
 icky
 rain
-fixe
 knit
 peon
 fret
@@ -325,12 +320,10 @@ john
 dogs
 kiwi
 syne
-vugg
 hows
 tool
 took
 digs
-vugs
 toot
 tugs
 hays
@@ -408,13 +401,11 @@ pope
 saga
 sage
 prig
-izar
 prix
 hazy
 sags
 bail
 thai
-cmdg
 buss
 acne
 tyke
@@ -490,7 +481,6 @@ veer
 brat
 bray
 orts
-fags
 pith
 brag
 brae
@@ -499,7 +489,6 @@ pita
 bran
 jack
 tone
-sagy
 rind
 vail
 legs
@@ -542,7 +531,6 @@ fess
 dote
 doth
 hers
-cunt
 nays
 ugli
 save
@@ -554,10 +542,8 @@ dept
 near
 neat
 tans
-ohed
 nows
 cons
-cont
 cony
 kohl
 jess
@@ -589,21 +575,18 @@ dado
 kept
 roms
 romp
-kwhr
 dada
 drip
 doff
 rome
 kepi
 jean
-wops
 dads
 drib
 kale
 just
 gods
 agog
-gips
 alum
 ease
 josh
@@ -655,10 +638,8 @@ sure
 dear
 bore
 eked
-nevi
 cede
 okra
-circ
 sots
 veda
 yuks
@@ -667,7 +648,6 @@ cord
 core
 burg
 knew
-ecus
 bold
 peel
 baht
@@ -726,11 +706,9 @@ calk
 jane
 dewy
 tamp
-rcpt
 fizz
 fork
 head
-gyps
 form
 ekes
 fora
@@ -752,7 +730,6 @@ webs
 sups
 atop
 whys
-atty
 peso
 pest
 anew
@@ -773,7 +750,6 @@ molt
 tost
 sale
 tosh
-xiii
 moll
 ship
 dent
@@ -794,9 +770,7 @@ test
 whey
 leek
 node
-riel
 toad
-ital
 felt
 diet
 fell
@@ -1006,7 +980,6 @@ colt
 bate
 kong
 jeux
-coll
 wolf
 cuts
 cold
@@ -1056,7 +1029,6 @@ olio
 rock
 dabs
 didy
-terr
 nick
 girt
 agin
@@ -1076,7 +1048,6 @@ kens
 pock
 kent
 bubo
-unco
 gram
 goth
 hula
@@ -1106,7 +1077,6 @@ sizy
 sock
 crib
 oafs
-biol
 rink
 vote
 acct
@@ -1187,7 +1157,6 @@ note
 nota
 take
 deux
-nebs
 heal
 wino
 bets
@@ -1220,7 +1189,6 @@ ruck
 reed
 wine
 salt
-phiz
 laws
 shop
 shot
@@ -1244,8 +1212,6 @@ gulf
 dick
 gull
 jolt
-vrow
-leks
 gulp
 sloe
 only
@@ -1260,7 +1226,6 @@ jazz
 reps
 soon
 nobs
-kike
 vive
 sans
 pimp
@@ -2555,7 +2520,6 @@ suds
 blvd
 rods
 paws
-rape
 lamb
 dibs
 lama
@@ -2663,13 +2627,10 @@ your
 stub
 cess
 mate
-geom
-geol
 stud
 smog
 slob
 stun
-geog
 shut
 coed
 shit
@@ -3086,7 +3047,6 @@ temp
 flit
 flip
 wisp
-bdrm
 lynx
 cake
 yaps
@@ -3106,7 +3066,6 @@ aclu
 boon
 boob
 rial
-scil
 junk
 star
 juno
@@ -3116,12 +3075,9 @@ runs
 stag
 foil
 stab
-dhow
 veil
 vein
-moxa
 sass
-spic
 slap
 rule
 yell

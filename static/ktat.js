@@ -27,6 +27,9 @@
         $("#opts").hide();
         $("#creds").hide();
         $(".err").hide();
+        $("#email").attr("href", ["mailto:",
+                         ["sa", "m.r", "ake", "r@g", "ma", "il", ".co", "m"].join(""),
+                         "?subject=ktg.io%20words"].join(""))
         $("#setFour").on('click', function () {
             theObj.setOpts("method", "fours");
             $("#dupes").show();
