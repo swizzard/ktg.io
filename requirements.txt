@@ -4,7 +4,6 @@ Jinja2==2.7.3
 MarkupSafe==0.23
 PyYAML==3.11
 Werkzeug==0.9.6
-cffi==0.8
 greenlet==0.4.0
 gunicorn==19.1.0
 itsdangerous==0.24
