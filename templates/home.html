@@ -27,6 +27,9 @@
         .etc {
             color: #ddd;
         }
+        .err {
+            display: hidden;
+        }
     </style>
 </head>
 <body>
@@ -42,6 +45,9 @@
         <div class="row">
             <div class="col-md-6"><p class="text-right"><strong class="ktat" id="left"></strong></p></div>
             <div class="col-md-6"><p class="text-left"><strong class="ktat" id="right"></strong></p></div>
+             <div id="err" class="err bg-danger col-lg-12">
+                <p class="err" id="error"></p>
+             </div>
         </div>
         <div class="row opts-div">
             <div class="col-lg-12">
@@ -61,20 +67,18 @@
             <br />
             <br />
         </div>
-        <div class="row" id="credits-div">
+        <div class="row credits-div">
             <div class="col-lg-12">
                 <p id="credits" class="etc">Credits</p>
             </div>
         </div>
-        <div class="row" id="creds" style="display:hidden;">
+        <div class="row credits-div" id="creds" style="display:hidden;">
             <div class="col-lg-12">
                 <p>A Very Silly Thing&#8482; built with <span class="glyphicon glyphicon-heart-empty"></span> by <a href="http://samraker.com" target="_blank">Sam Raker</a>,
                 using <a href="http://flask.pocoo.org/" target="_blank">Flask</a>, <a href="http://pythonhosted.org//Flask-JSONRPC/" target="_blank">JSON-RPC</a>,
                 <a href="http://redis.io" target="_blank">Redis</a>, &amp; <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap</a>.</p>
+                <p>Powered by <a href="http://heroku.com" target="_blank">Heroku.</a></p>
             </div>
-        </div>
-        <div id="err" class="bg-danger">
-            <p id="error"></p>
         </div>
     </div>
 </body>

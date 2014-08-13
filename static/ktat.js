@@ -26,6 +26,7 @@
             };
         $("#opts").hide();
         $("#creds").hide();
+        $(".err").hide();
         $("#setFour").on('click', function () {
             theObj.setOpts("method", "fours");
             $("#dupes").show();
@@ -75,7 +76,7 @@
                 $("#opts").hide();
                 $("#options").css({"color": "#ddd"});
             });
-        $("#credits-div").hover(
+        $(".credits-div").hover(
             function () {
                 $("#creds").show();
                 $("#credits").css({"color": "#000"});
