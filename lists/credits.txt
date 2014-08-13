@@ -1,1 +1,0 @@
-fours.txt and eights.txt sourced from http://www-01.sil.org/linguistics/wordlists/english/
