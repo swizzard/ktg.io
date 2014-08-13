@@ -54,7 +54,7 @@
                 dataType: "json",
                 parseData: false,
                 type: "POST",
-                url: location.origin + "/api/",
+                url: location.origin + "/api",
                 data: JSON.stringify(theObj.data)})
                 .done(function (data) {
                     $("#sugg-div").show();
